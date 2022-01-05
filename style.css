@@ -1,0 +1,122 @@
+.heading{
+    margin-left: 10%;
+    margin-top: 5%;
+}
+p{  
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+#title{
+    font-family: 'DM Serif Text', serif;
+    font-size: 80px;
+    padding-left: 25px;
+    border-left: 5px solid;
+    border-image: linear-gradient(180deg, cyan, blue);
+    border-image-slice: 1;
+    margin-bottom: 10px;
+}
+.blueColor{
+    color: royalblue;
+}
+.flexSec{
+    display: flex;
+    margin-bottom: 5%;
+}
+.halfDisplay{
+    width: 40%;
+}
+.heading img{
+    margin-left: 25%;
+    width: 80%;
+}
+.buttons{
+    background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);
+    text-decoration: none;
+    padding: 15px 30px;
+    border-radius: 7px;
+    font-size: large;
+    color: white;
+}
+.missionSec h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 65px;
+    text-align: center;
+}
+h2{
+    font-family: 'Poppins', sans-serif; 
+}
+.missionSec .halfDisplay{
+    padding: 2% 3%;
+    border-radius: 20px;
+    margin-right: 2%;
+
+}
+.missionSec .halfDisplay img{
+    margin-left: 0;
+    width: 50%;
+}
+.missionSec .flexSec{
+    margin: 0 10%;
+}
+#mission{
+    background-color: mistyrose;
+}
+#vision{
+    background-color: #AFEEEE;
+}
+#goal{
+    background-color: skyblue;
+}
+.smallimg{
+    width: 70%;
+    margin-left: 25%;
+}
+
+.devSec{
+    background-image: url(./images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    margin-top: 5%;
+    background-size: 300px;
+    background-position-y: center;
+    background-position: 5%;
+}
+.flexSec h1{
+    font-family: 'Poppins', sans-serif; 
+    font-size: 50px;
+}
+.devSec .halfDisplay{
+    margin-right: 3%;
+}
+.globSec{
+    margin-left: 10%;
+}
+.img2{
+    margin-left: 10%;
+}
+.globSec{
+    background-image: url(./images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 250px;
+    background-position:right 100px bottom ;
+    padding-bottom: 5%;
+}
+footer{
+    font-family: 'DM Serif Text', serif;
+    color: white;
+    text-align: center;
+    background-color: black;
+    overflow: hidden;
+    height: 100px;
+    padding-bottom: 90px;
+    padding-top: 50px;
+
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+footer p{
+    margin-top: 0px;
+}
