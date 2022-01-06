@@ -112,15 +112,20 @@ footer{
     padding-top: 50px;
 
 }
+.joinSec .flexSec{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
 .joinSec img{
-    margin: 0% 25%;
-    width: 70%;
+    margin-top: 5%;
+    width: 80%;
     border-radius: 15%;
     
 }
 .joinSec .halfDisplay{
-    margin-top: 5%;
-    padding: 2%;
+    width: 40%;
+    margin: auto;
 }
 .progClr{
     color: #ff136f;
@@ -129,6 +134,7 @@ body{
     margin: 0;
     padding: 0;
 }
-footer p{
+.noMrg{
     margin-top: 0px;
+    margin-bottom: 40px;
 }
